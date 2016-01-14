@@ -51,7 +51,7 @@ public class Second extends AppCompatActivity {
     @Override
     protected void onRestart() {
         super.onRestart();
-
+        /*Comment to review on github*/
         Log.d("FT App", "Second on Restarting...");
     }
 
